@@ -24,3 +24,4 @@ output like:
 pip install pandas and openpyxl.
 Download excel file from team grades section, rename to 'grades.xlsx'. Put in same folder as this script.
 Run the program (python ./grade_calculator). If everything is ok, you'll find output file in the same directory ;)
+Created for personal usage, not sure if teams generates these excels the same for other folks.
